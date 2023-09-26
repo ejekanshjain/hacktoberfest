@@ -1,4 +1,4 @@
-# hacktoberfest
+# hacktoberfest 2023
 
 
 ### https://github.com/ejekanshjain/create-ej-app/issues/1
