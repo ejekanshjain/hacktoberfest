@@ -4,9 +4,11 @@
 
 ### https://github.com/ejekanshjain/create-ej-app/issues/1
 
-### https://github.com/ejekanshjain/pocket-settle/issues/1
-
 ### https://github.com/ejekanshjain/cloud-storage/issues/2
+
+### https://github.com/ejekanshjain/html-pdf/issues/3
+
+### https://github.com/ejekanshjain/pocket-settle/issues/1
 
 ## Completed
 
