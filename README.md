@@ -1,5 +1,8 @@
 # hacktoberfest 2023
 
+## Easy Hacktoberfest
+### https://github.com/ejekanshjain/easy-hacktoberfest
+
 ## Open
 
 ### https://github.com/ejekanshjain/cloud-storage/issues/2
